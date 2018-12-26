@@ -1,2 +1,13 @@
 # lessons_learned
-Lessons learned so far in bloc
+
+* HTML
+* HTML Layouts
+* Links
+* Tables
+* Forms
+* Media
+* Accessibility
+* CSS
+* CSS Frameworks
+* Command Line tools and commands
+* Git and Github
